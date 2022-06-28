@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranjal2690
 - 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently learning WEB 3.0 
+- 🌱 I’m currently Learning WEB 3.0 
 - 💞️ I’m looking to collaborate on NEW EMERGING TECHNOLOGY ENTHUSIAST'S
 - 📫 How to reach me ...
 
