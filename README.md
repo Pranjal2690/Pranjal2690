@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranjal2690
-- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently Learning WEB 3.0 
-- 💞️ I’m looking to collaborate on NEW EMERGING TECHNOLOGY ENTHUSIAST'S
-- 📫 How to reach me ...
+- 👀 I’m interested in Problem Solving on DSA and Full Stack Web Development
+- 🌱 I’m currently Learning Javascript Libraries
+- 💞️ I’m looking to collaborate on New Emerging Technologies Enthusiasts.
+- 📫 How to reach me ... 
 
 <!---
 Pranjal2690/Pranjal2690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
