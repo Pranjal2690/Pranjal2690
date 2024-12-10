@@ -66,7 +66,7 @@ Results-driven Data Science professional with a strong foundation in data engine
 - Leveraged AWS S3 for scalable storage, Glue for schema discovery, and Athena for SQL-based querying.
 - Designed the pipeline to handle high-velocity data streams effectively.
 - **Tools**: Python, Apache Kafka, AWS (S3, Glue, Athena, EC2).
-- [Dataset Used](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv)  
+- [Dataset Used](https://github.com/Pranjal2690/Stock_market_Data_Analysis_using_Kafka/blob/main/indexProcessed.csv)  
 - [Video Tutorial](https://www.youtube.com/embed/KerNf0NANMo).
 
 ---
